@@ -1,9 +1,11 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, my name is Shameem! <img src="https://github.com/rahul0070050/Rahul0070050/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, my name is Shameem! 
+<!--   <img src="https://github.com/shameemm/shameemm/blob/master/gifs/Hi.gif" width="30px"> -->
+  </h2>
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Shameem M!;I'm+a+Python+Full+Stack+Developer...;I'm+work+with+Python+Django+React+JS;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Shameem+M!;I'm+a+Python+Full+Stack+Developer...;)](https://git.io/typing-svg)
 
 
 
