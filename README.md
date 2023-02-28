@@ -70,11 +70,11 @@
   </div>
   <br/>
   
-  <div align="center">
+<!--   <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
   
 ### Spotify Playing 🎧
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lbdqcq6f2zixn2bxjedvp35tu4)
