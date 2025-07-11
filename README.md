@@ -17,7 +17,7 @@
 
 
 ### I am a Full Stack Developer
-- 🔭 I’m currently working on [NetWise: Wholesale & B2B]('https://apps.shopify.com/netwise')  :grin:
+- 🔭 I’m currently working on ![NetWise: Wholesale & B2B]('https://apps.shopify.com/netwise')  :grin:
 - 🌱 I’m currently building new features on Netwise and playing with the bugs 🐞.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
