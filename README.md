@@ -17,10 +17,9 @@
 
 
 ### I am a Full Stack Developer
-- 🔭 I’m currently working on Exalt - Sports Hub Booking Service :grin:
-- 🌱 I’m currently learning Python Full Stack.
+- 🔭 I’m currently working on ![NetWise: Wholesale & B2B]('https://apps.shopify.com/netwise')  :grin:
+- 🌱 I’m currently building new features on Netwise and playing with the bugs 🐞.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Let's get in touch ![linkedin](https://www.linkedin.com/in/shameem-m-767213126/)
 - 🧗 I try to: Go beyond and push the bounds
