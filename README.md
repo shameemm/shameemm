@@ -51,30 +51,3 @@
 ![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 
-
-<!-- 
-### Spotify Playing 🎧
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1) -->
-
----
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" /></p>
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <div align="center">
-  
- <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shameemm&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shameemm&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
-  </div>
-  <br/>
-  
-<!--   <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div> -->
-  
-<!--### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lbdqcq6f2zixn2bxjedvp35tu4)-->
